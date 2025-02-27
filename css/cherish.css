@@ -1,0 +1,34 @@
+@charset "UTF-8";
+.bg-mia {
+    background-color: #FFFFFF;
+}
+.bg-gato {
+    color: #FFFFFF;
+    background-color: rgba(255,220,229,1.00);
+}
+.bg-im {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0% 0%;
+    background-image: url(../imagenes/inicio/1.png);
+}
+.bg-negro {
+    background-color: rgba(139,205,228,0.44);
+    color: rgba(255,255,255,1.00);
+}
+.bg-img {
+    background-image: url(../imagenes/inicio/3.png);
+    background-repeat: no-repeat;
+    background-position: 0 0%;
+    background-size: cover;
+}
+.bg-pop {
+    background-image: url(../imagenes/carousel/4_babies.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg-aa {
+    background-image: url(../imagenes/inicio/4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
